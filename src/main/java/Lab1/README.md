@@ -11,4 +11,4 @@ This project demonstrates the use of recursion to compute the power of a number 
 - `myLibrary.java`
 
 ## Screenshot of mainApp1
-![mainApp1 new Screenshot](images/java_ss.png)
+![mainApp1 new Screenshot](../../../../images/java_ss.png)
